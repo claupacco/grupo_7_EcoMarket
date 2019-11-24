@@ -11,9 +11,9 @@ Estanislao Casas
 Gonzalo Godoy
 
 Instalacion
-//direccion de repositorio de Github
+///direccion de repositorio de Github
 
-Listado de sitios de referencia
+Listado de sitios de referencia:
 
 
 https://Bebamboo.com.mx

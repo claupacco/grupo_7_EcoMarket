@@ -1,6 +1,6 @@
 Grupo 7 - Mundo_Bambu
 
-Este proyecto se trata de un ecommerce orientado a personas interesadas en el cuidado del medio ambiente y la utilización de productos provenientes de un medio renovable. Cuando comenzamos a planificar este proyecto nos propusimos lograr que mas personas potencien este sector. En esta aplicación los usuarios registrados pueden adquirir diferentes artículos de un material distinto, que ofrece muchas ventajas con respecto a aquellos de materiales no biodegradables. En el futuro queremos expandir este desarrollo para aumentar la cantidad de productos en lista y continuar mejorando el impacto ambiental.
+Este proyecto se trata de un ecommerce orientado a personas interesadas en el cuidado del medio ambiente y la utilización de productos provenientes de un medio renovable como el bambú. Cuando comenzamos a planificar este proyecto nos propusimos lograr que mas personas potencien este sector. En esta aplicación los usuarios registrados pueden adquirir diferentes artículos de un material distinto, que ofrece muchas ventajas con respecto a aquellos de materiales no biodegradables. En el futuro queremos expandir este desarrollo para aumentar la cantidad de productos en lista y continuar mejorando el impacto ambiental.
 
 
 Participantes

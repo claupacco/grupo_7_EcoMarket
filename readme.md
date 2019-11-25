@@ -19,7 +19,11 @@ https://github.com/claupacco/grupo_7_MundoBambu.git
 Listado de sitios de referencia:
 
 https://Bebamboo.com.mx
+
 https://biodegradable.es/debambu/
+
 https://todobambu.online/ 
+
 https://piura-verde.com/bambu-productos-hechos-de-bambu-una-alternativa-ecologica/
-http://www.bambucultivos.com.ar/ ///(esta pagina es informativa, de donde viene y diferente variedades de bambu)
+
+http://www.bambucultivos.com.ar/ //(esta página es informativa, de donde viene y diferentes variedades de bambú)

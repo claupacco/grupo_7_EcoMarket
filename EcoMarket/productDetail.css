@@ -1,0 +1,32 @@
+
+.caja1{
+    margin: 20px;
+    background-color: darkolivegreen;
+    height: 50px;
+    border-block-style: solid;
+    padding: 40px;
+}
+
+.logo {
+    color: blue;
+}
+.iniciar{
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.registro{
+    float: right;
+    font-style: oblique;
+}
+.carrito{
+    float: right;
+    color: crimson;
+}
+
+.caja2{
+    background-color: darksalmon;
+}
+
+.caja3{
+    background-color: darkviolet;
+}

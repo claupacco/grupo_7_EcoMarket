@@ -10,42 +10,8 @@
     overflow: hidden;
     padding: 0px;    
 }
-
-.header-line1{
-    padding: 15px 20px 0px 0px;
-}
-
-.logo {
-    float: left;
-    padding: 0px 7px 0px 15px;
-}
-
-.iniciar{
-    float: right;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-}
-
-.registro{
-    float: right;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    padding-left: 20px;
-}
-
-.carrito{
-    float: right;
-    font-size: 16px;
-    padding-left: 20px;
-}
-
-.header-line2{
-    padding: 15px 20px 0px 0px;
-}
-
-.lista_productos{ 
-    float: left;
-    font-size: 16px;
+.main-navbar ul li{
+    list-style: none;
 }
 
 .buscador{
@@ -114,6 +80,7 @@ footer ul li{
     margin-top: 3px;
     height: 30px;
     font-size: 16px;
+    list-style: none;
 }
 
 .footer1{

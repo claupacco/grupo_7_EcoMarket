@@ -10,37 +10,37 @@
     </head>
     <body>
         <header class="header">
-            <nav class="container">
-                <div class="row align-items-center">
-                    <div class="col-2">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 logo">
                         <a href="/" class="logo-home-link">
                             <img src="../../public/images/Logo.PNG" width="100" height="100">
                         </a>
                     </div>
                     <div class="col-4">
-                        <form action="" method="get" class="buscador">
+                        <form action="" method="get" class="search">
                             <input type="text" name="search" placeholder="Buscar productos y más" class="search-barra">
                             <button type="submit" class="search-lupa"><i class="fas fa-search"></i></i></button>
-                        </form>
+                        </form> 
                     </div>
-                    <nav class="main-navbar">
-                        <ul class="right-navbar">
-                            <li>
-                                <a href="/" >Iniciar Sesión</a>
-                            </li>
-                            <li>
-                                <a href="/">Registrarme</a>
-                            </li>
-                            <li>
-                                <a href="/"><i class="fas fa-shopping-cart"></i></a>
-                            </li>
-                        </ul>
-                        <ul class="left-navbar">
-                            <li>
-                                <a href="/" ><i class="fas fa-bars">Productos</i></a>
-                            </li>
+                    <div class="col-6">
+                        <div class="row align-items-center">
+                            <nav>
+                                <ul class="registro">
+                                    <a href="/" >Iniciar Sesión</a>
+                                    <a href="/">Registrarme</a>
+                                    <a href="/"><i class="fas fa-shopping-cart"></i></a>
+                                </ul>
+                            </nav>
                         </div>
-                    </nav>
+                    </div>
+                    <div class="col-12 productos">
+                        <nav>
+                            <ul class="header2">
+                                <a href="/" ><i class="fas fa-bars"></i>Productos</i></a>
+                            </ul>
+                        </nav>
+                    </div>
                 </div>
             </div>
         </header>
@@ -56,18 +56,20 @@
         </section>
 
         <footer>
-            <div>
-                <ul>
-                    <li class= "footer1">footer1</li>
-                    <li class= "footer2">footer2</li>
-                    <li class= "footer3">footer3</li>
-                    <li class= "footer4">footer4</li>
-                </ul>
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                    <ul>
+                        <a href="/" class="footer1">footer1</a>
+                        <a href="/" class="footer2">footer2</a>
+                        <a href="/" class="footer3">footer3</a>
+                        <a href="/" class="footer4">footer4</a>
+                    </ul>
+                </div>
             </div>
         </footer>
-
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     </body>
 </html>
+

@@ -7,25 +7,41 @@
     <title>Página de Registro</title>
 </head>
 <body>
-    <h1>Página de Registro</h1>
+<%- include('../partials/head') %>
+<%- include('../partials/header') %>
+    <h1>Regístrate</h1>
     <form action="/users/" method="POST">
         <p>
             <label>
                 Nombre
-                <input type="text" name="name">
             </label>
+        </p>
+        <p>    
+            <input type="text" name="name">
         </p>
         <p>
             <label>
                 Email
-                <input type="text" name="email">
             </label>
+        </p>
+        <p>
+            <input type="text" name="email">
+        </p>
+        <p>
+            <label>
+                Fecha de Nacimiento
+            </label>
+        </p>
+        <p>    
+            <input type="date" name="date">
         </p>
         <p>
             <label>
                 Contraseña
-                <input type="password" name="password">
             </label>
+        </p>
+        <p>
+            <input type="password" name="password">
         </p>
         <p>
             <button type="submit">
@@ -33,5 +49,6 @@
             </button>
         </p>
     </form>
+<%- include('../partials/footer') %>
 </body>
 </html>

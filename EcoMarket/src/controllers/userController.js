@@ -7,7 +7,7 @@ const controller = {
         //guardo el usuario
         console.log(req.body)
         //redirijo al login
-        res.redirect("/users/login")
+        res.redirect("../../")
     },
     login: (req, res) => {
         res.render("users/login")

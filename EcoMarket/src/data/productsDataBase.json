@@ -1,0 +1,164 @@
+[
+    {
+      "id": 1,
+      "name": "Alfombra",
+      "price": "1500",
+      "discount": "10",
+      "category": "visited",
+      "description": "Composición: Bambu 100%. Base Anti Deslizante. Altura alfombra 4 mm. Lama de 2 cm de ancha y 3,2 mm de grosor. De lo mejor del mercado. Acabado superficial Aceitado transparente.",
+      "image": "img-alfombra.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Anteojo",
+      "price": 1500,
+      "discount": 0,
+      "category": "in-sale",
+      "description": "Anteojos Sol Lentes De Sol Polarizados Madera de Bambú misionero. Estos anteojos de bambú buscan darle ese toque desprolijo a un anteojo que se destaca por su elegancia y nivel de detalle. Anteojos de sol de Madera. Hecho a mano. Lentes de sol marrones polarizadas con protección UV 400. Patillas flex, mejoran comodidad y adaptación al tipo de cara. Incluye: funda, caja, paño de microfibra, calco.",
+      "image": "img-anteojos.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Set de Boligrafos",
+      "price": 1200,
+      "discount": 25,
+      "category": "in-sale",
+      "description": "Madera de bambú con clip metálico. Pulsador y puntera de plástico color plata. Punta táctil touch para pantallas táctiles. Ideales para Souvenis, congresos, regalo de fin de año, comercios, empresas, etc",
+      "image": "img-boligrafo.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bolsas de papel",
+      "description": " Kit de 15 bolsas papel kraf con asas rizadas para mayor resistencia. Marron. Muy prácticas, reutilizables y resistentes para el día a día. Especial para Navidad, regalos, eventos, ferias, boda, comercio, tienda, compra, venta, manualidades, embalaje, transporte, cumpleaños, fiestas. Ideal para reciclaje y por tanto respetuosas con el medio ambiente. Biodegradables. No contienen ninguna impresión de ningún tipo",
+      "price": 790,
+      "discount": 10,
+      "image": "img-bolsa_de_papel.jpg",
+      "category": "in-sale"
+    },
+    {
+      "id": 5,
+      "name": "Nikon Reflex D3500 - Kit",
+      "description": "Esta botella recargable con tapa de bambú incluye el inspirador mensaje (Sé fuerte). Hecho de material de vidrio transparente y cubierta de silicona. Es un gran regalo para grupos de hombres y mujeres, o como obsequio para retiros y caminatas benéficas.",
+      "price": 950,
+      "discount": 20,
+      "image": "img-botella_recargable.jpg",
+      "category": "in-sale"
+    },
+    {
+      "id": 6,
+      "name": "Cepillo de dientes",
+      "description": "Cada cepillo de dientes está hecho de una sola pieza de bambú naturalmente sostenible, como tal sin engrudo garantizado. El bambú es naturalmente anti-bacteriana y resistente al agua. Las CERDAS FIRM, la más alta calidad libres de BPA, son cerdas de nylon. No hay sorpresas desagradables, cabeza de forma de onda recomendado por los dentistas",
+      "price": 300,
+      "discount": 12,
+      "image": "img-cepillo_de_dientes.jpg",
+      "category": "in-sale"
+    },
+    {
+      "id": 7,
+      "name": "Collar para Perros",
+      "description": "Nuestros collares están realizados íntegramente en lana. Un tejido orgánico y ecológico, que es muy resistente, de indiscutible belleza y muy cómodo para tu perro. Pero además, la lana es una fibra natural, que no contiene químicos ni sustancias tóxicas, con altas propiedades de transpiración y que repele la suciedad, los ácaros y los malos olores.",
+      "price": 680,
+      "discount": 5,
+      "image": "img-collar_para_perros.jpg",
+      "category": "in-sale"
+    },
+    {
+      "id": 8,
+      "name": "Cuaderno con Bolígrafo",
+      "description": "Anotador ecológico elaborado con papel reciclado. Incluye bolígrafo biodegradable. Espiralado. Contiene 70 hojas lisas. Medidas: 13,8 x 18 x 1,5 cm",
+      "price": 450,
+      "discount": 2,
+      "image": "img-cuaderno_con_boligrafo.jpg",
+      "category": "in-sale"
+    },
+    {
+      "id": 9,
+      "name": "Set de cubiertos",
+      "description": "Los cubiertos de madera vienen envueltos en una bolsa de yute. El set es muy fácil de llevar, ideal para ir de camping. DURADERO: El bambú posee una gran resistencia, haciendo de estos utensilios de madera un set de larga duración. REUTILIZABLE: Estos cubiertos ecológicos pueden lavarse al lavavajillas y ser reutilizados muchas veces. Los utensilios son también biodegradables, con lo que no terminarán contaminando y dañando el medioambiente.",
+      "price": 850,
+      "discount": 0,
+      "image": "img-cubiertos_set.jpg",
+      "category": "visited"
+    },
+    {
+      "id": 10,
+      "name": "Joyero",
+      "description": "Caja de almacenamiento de bambú Vintage, collar de joyería, organizador de varios artículos, jabón, maquillaje, Sostenedor cosmético, botón, cambio de contenedor",
+      "price": 1200,
+      "discount": 10,
+      "image": "img-joyero.jpg",
+      "category": "visited"
+    },
+    {
+      "id": 11,
+      "name": "Cepillo de Pelo",
+      "description": "CEPILLO PARA DESENREDAR EL CABELLO CON CERDAS DE JABALÍ Y ALFILERES DE NAILON. Para un pelo sano y brillante. Este cepillo ofrece las ventajas de un cepillo para desenredar y un cepillo de cerdas de jabalí para dar brillo. Los alfileres de nailon desenredan también el pelo grueso mientras que las cerdas de jabalí suavizan el pelo de forma natural y distribuyen su propia grasa creando un bonito brillo. Adecuado para todos los tipos de cabello.",
+      "price": 600,
+      "discount": 12,
+      "image": "img-peine_madera.jpg",
+      "category": "visited"
+    },
+    {
+      "id": 12,
+      "name": "Persina",
+      "description": "100% bambú/barras de bambú de alta calidad - Tamaño (Ancho x Alto). Manejo mediante cordón de tracción (freno en cordón) en el lateral derecho. Fácil montaje en la mampostería o en el bastidor de la ventana",
+      "price": 1600,
+      "discount": 0,
+      "image": "img-persiana.jpg",
+      "category": "visited"
+    },
+    {
+      "id": 13,
+      "name": "Kit de Platos",
+      "description": "JUEGO DE PLATOS DE BAMBÚ Fabricado principalmente con fibra de bambú, aprobado por la FDA y sin BPA. Los platos de bambú no afectan a la consistencia, aroma o sabor de los alimentos. Nuestros platos de bambú son extra gruesos para asegurar los más altos estándares de calidad y durabilidad. Están específicamente diseñados para servir como vajilla de uso diario en casa.",
+      "price": 1300,
+      "discount": 0,
+      "image": "img-platos_kit4.jpg",
+      "category": "visited"
+    },
+    {
+      "id": 14,
+      "name": "Porta cepillo de dientes ",
+      "description": "Porta cepillos de dientes de bambú , hasta 2 cabezales.¡Sin plástico! Hecho de bambú, uno de los materiales más sostenibles del mundo. Ecológico, hecho a mano, fácil de lavar",
+      "price": 1000,
+      "discount": 5,
+      "image": "img-portacepillo_dientes.jpg",
+      "category": "visited"
+    },
+    {
+      "id": 15,
+      "name": "Porta Documento",
+      "description": "Carpeta portadocumentos de cartón, original y elegante, perfecta para entregar documentos a clientes, así como fotografías o cualquier otro tipo de material en formato DinA4.",
+      "price": 350,
+      "discount": 12,
+      "image": "img-portadocumento_carton_reciclado.jpg",
+      "category": "visited"
+    },
+    {
+      "id": 16,
+      "name": "Reloj Despertador",
+      "price": 4699,
+      "discount": 5,
+      "category": "in-sale",
+      "description": "Reloj despertador multifuncional: el reloj digital muestra la hora, la fecha, la temperatura interior. Puede configurar 3 grupos de alarma. No solo es un reloj despertador, sino también una excelente decoración moderna para su hogar. Fácil de operar: hay 3 botones en la parte posterior y ningún botón en el frente y los lados, un diseño fácil de usar. Además, es muy simple de usar. Diseño delicado: hecho de material MDF, provisto de un respiro de la naturaleza para su hogar. Con textura de madera, delicada artesanía y pantalla de luz led blanca. Es genial para ti tener un ambiente relajado cuando duermes. Adecuado para el hogar, la cocina, el dormitorio, el estudio y otros lugares interiores.",
+      "image": "img-reloj.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Set de Sábanas",
+      "price": "1800",
+      "discount": "10",
+      "category": "in-sale",
+      "description": "Sábanas de lujo con mezcla de algodón y bambú. 60% de viscosa de bambú y 40% de algodón de 300 hilos. Extremadamente cómodo en todas las temperaturas. Ideal para personas con alergias y sensibilidad a productos químicos. La mezcla de algodón y bambú es altamente resistente a los ácaros del polvo y ha sido cultivado sin pesticidas.",
+      "image": "img-set_sábanas.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Kit de Vasos",
+      "price": "500",
+      "discount": "10",
+      "category": "visited",
+      "description": "Exelentes Vasos de Bambu y Melamina Biodegradables. Cantidades: 4 por pack (cada pack viene de 4 con mismo motivo). Material: Bambu+Melamina. Altura: 13cm. Diámetro: 8cm. Capacidad: 400cc (aprox)",
+      "image": "img-vasos_kit4.jpg"
+    }
+  ]

@@ -1,6 +1,29 @@
 <%- include('../partials/head') %>
 <%- include('../partials/header') %>
 
-<h1>Página de Login</h1>
+    <h1>Página de Login</h1>
+    <form action="/users/" method="POST"></form>
+        <p>
+            <label>
+                Email
+            </label>
+        </p>
+        <p>
+            <input type="text" name="email">
+        </p>
+        <p>
+            <label>
+                Contraseña
+            </label>
+        </p>
+        <p>
+            <input type="password" name="password">
+        </p>
+        <p>
+            <button type="submit">
+                Iniciar Sesión
+            </button>
+        </p>
+    </form>
 
 <%- include('../partials/footer') %>

@@ -9,8 +9,6 @@ Claudio Paccor
 
 Estanislao Casas
 
-Gonzalo Godoy
-
 
 Link Tablero de Trabajo: https://trello.com/b/4JUSlAKL/ecomarket
 
